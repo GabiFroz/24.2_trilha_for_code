@@ -1,3 +1,1 @@
-var1 = 10
-
-print(var1)
+print("hello world")
